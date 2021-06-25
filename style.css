@@ -1,0 +1,52 @@
+.container {
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+.listBasket ul:last-child {
+    width: 540px;
+}
+.main .row {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.main .listBasket {
+    display: flex;
+    flex-direction: column;
+}
+
+.jumbotron {
+  display: flex;
+  
+}
+.jumbotron h1 {
+  font-size: 35px;
+  
+}
+
+.jumbotron a {
+    margin-left: auto;
+}
+
+
+.myCol {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.mainCol .card  {
+    width: 250px
+
+    
+ 
+}
+.mainCol .card img {
+    min-width: 200px;
+    height: 300px;
+    object-fit:cover;
+    
+ 
+}
